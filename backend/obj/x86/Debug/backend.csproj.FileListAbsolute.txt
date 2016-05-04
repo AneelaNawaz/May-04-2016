@@ -1,0 +1,9 @@
+C:\Users\Aneela\documents\visual studio 2010\Projects\backend\backend\obj\x86\Debug\backend.Form1.resources
+C:\Users\Aneela\documents\visual studio 2010\Projects\backend\backend\obj\x86\Debug\backend.Properties.Resources.resources
+C:\Users\Aneela\documents\visual studio 2010\Projects\backend\backend\obj\x86\Debug\backend.csproj.GenerateResource.Cache
+C:\Users\Aneela\documents\visual studio 2010\Projects\backend\backend\bin\Debug\VP.accdb
+C:\Users\Aneela\documents\visual studio 2010\Projects\backend\backend\bin\Debug\backend.exe.config
+C:\Users\Aneela\documents\visual studio 2010\Projects\backend\backend\bin\Debug\backend.exe
+C:\Users\Aneela\documents\visual studio 2010\Projects\backend\backend\bin\Debug\backend.pdb
+C:\Users\Aneela\documents\visual studio 2010\Projects\backend\backend\obj\x86\Debug\backend.exe
+C:\Users\Aneela\documents\visual studio 2010\Projects\backend\backend\obj\x86\Debug\backend.pdb
